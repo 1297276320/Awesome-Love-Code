@@ -32,7 +32,7 @@
     <!-- 第二行 -->
     <tr>
     <td valign="top">
-        <a target="_blank" href="https://sun0225sun.github.io/Awesome-Love-Code/Web/004">
+        <a target="_blank" href="https://github.com/1297276320/Awesome-Love-Code/Web/004">
             <p align="center">004</p>
             <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/Awesome-Love-Code/assets/img/web/004.jpg"/>
         </a>
